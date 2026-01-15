@@ -11,7 +11,7 @@ CREATE OR REPLACE TABLE bv_testfile1 I18N jp (
         c2:text,
         c3:text
     )
-    DESCRIPTION = 'test'
+    DESCRIPTION = 'test bbb'
     CACHE OFF
     TIMETOLIVEINCACHE DEFAULT
     ADD SEARCHMETHOD testfile1(
